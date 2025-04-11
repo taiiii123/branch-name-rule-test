@@ -2,5 +2,5 @@
 
 Githubのリポジトリ　> Settings > Rules > Rulesets > New rulesetボタンを押下
 
-以下の設定を行い、登録する。
-[設定画面](./image.png)
+以下の設定を行い、登録する。<br>
+![設定画面](./image.png)
